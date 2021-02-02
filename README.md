@@ -5,10 +5,7 @@
 
 Here are some ideas to get you started:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSoo97)](https://github.com/anuraghazra/github-readme-stats)
-
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=MinSoo97&show_icons=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSoo97)](https://github.com/MinSoo97/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

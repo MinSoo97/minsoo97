@@ -6,18 +6,8 @@
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/ming_.soo._/)](https://www.instagram.com/ming_.soo._/)
 <!--페이스북-->  
 [![Facebook Badge](http://img.shields.io/badge/-Facebook-9cf?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100003257798630)](https://www.facebook.com/profile.php?id=100003257798630)
-
-<a href="https://instagram.com/jaeheon_bot/" target="_blank">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/jaeheon_bot"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-<a href="https://minsoo97.github.io/minsooPP/" target="_blank">
-    <img 
-        src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://https://minsoo97.github.io/minsooPP/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<!--포트폴리오-->  
+[![Facebook Badge](http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://https://minsoo97.github.io/minsooPP/)](https://minsoo97.github.io/minsooPP/)
 
 
 ### Hello REISSUE 👋

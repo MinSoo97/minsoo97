@@ -13,13 +13,13 @@
 
 <a href="https://jaehoney.tistory.com/" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://jaehoney.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=/#"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 <a href="https://Backendhoney.github.io/" target="_blank">
     <img 
-        src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://Backendhoney.github.io/"
+        src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://https://minsoo97.github.io/minsooPP/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 

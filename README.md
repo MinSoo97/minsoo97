@@ -17,7 +17,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://Backendhoney.github.io/" target="_blank">
+<a href="https://minsoo97.github.io/minsooPP/" target="_blank">
     <img 
         src="http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://https://minsoo97.github.io/minsooPP/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

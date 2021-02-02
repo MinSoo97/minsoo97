@@ -31,7 +31,7 @@
 
 ### Tech
 
-저는 Java와 Javascript를 주로 다룹니다. 백엔드 공부를 주로 하고있으며 최근에 풀스택 에 관심이 있습니다.
+백엔드 공부를 주로 하고있으며 최근에 풀스택 에 관심이 있습니다.
 
 * [node.js] - 🌱 I’m currently learning ...
 * [Html/Css/Js]

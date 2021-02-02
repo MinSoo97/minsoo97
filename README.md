@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/apiMinSoo97=Kinetic27&show_icons=true)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?MinSoo97=Kinetic27&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

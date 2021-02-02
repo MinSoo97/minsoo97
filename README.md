@@ -2,11 +2,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freissue%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--구글 이메일-->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style-flat-square&logo=Gmail&logoColor=white&link=mailto:ssh97540@gmail.com)](mailto:kms33233@gmail.com)
-<!--인스타그램--> [![Instagram Badge](http://img.shields.io/badge/-Instagram-black-style=flat&logo=Instagram&link=https://www.instagram.com/ming_.soo._/)https://www.instagram.com/ming_.soo._/)
-<!--페이스북-->
-[![Facebook Badge](http://img.shields.io/badge/-Facebook-9cf?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100003257798630)(https://www.facebook.com/profile.php?id=100003257798630)
 <!--포트폴리오-->
 [![portfolio Badge](http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=github&link=https://https://minsoo97.github.io/minsooPP/)](https://minsoo97.github.io/minsooPP/)
+<!--페이스북-->
+[![portfolio Badge](http://img.shields.io/badge/-Facebook-9cf?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100003257798630)](https://www.facebook.com/profile.php?id=100003257798630)
+[![Instagram Badge](https://img.shields.io/badge/instagram-e4405f?style-flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ssh._.world)
 
 
 ### Hello REISSUE 👋

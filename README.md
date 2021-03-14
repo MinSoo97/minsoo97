@@ -8,7 +8,7 @@
 
 ## Tech
 
-* [node.js] - 🌱 I’m currently learning ...
+* [node.js]
 * [Html/Css/Js]
 * [Android Studio]
 * [C# Winform].
